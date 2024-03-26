@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ACADEMIC\\SEMESTER - 03\\PROJECTS\\PROGRAMMING PROJECT\\StudentManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A53FE18-5B57-406A-8AE7-AAB60C949151}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\academic\\semester - 03\\projects\\programming project\\studentmanagementsystem\\studentmanagementsystem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6A53FE18-5B57-406A-8AE7-AAB60C949151}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\ACADEMIC\\SEMESTER - 03\\PROJECTS\\PROGRAMMING PROJECT\\StudentManagementSystem\\StudentManagementSystem\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\MainWindow.xaml",
+              "ToolTip": "C:\\ACADEMIC\\SEMESTER - 03\\PROJECTS\\PROGRAMMING PROJECT\\StudentManagementSystem\\StudentManagementSystem\\MainWindow.xaml",
+              "RelativeToolTip": "StudentManagementSystem\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-22T13:05:57.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

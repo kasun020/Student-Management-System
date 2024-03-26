@@ -1,0 +1,492 @@
+C:\Users\Tharun\Desktop\Programming Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Tharun\Desktop\Programming Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Tharun\Desktop\Programming Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\App.g.cs
+C:\Users\Tharun\Desktop\Programming Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem_MarkupCompile.cache
+C:\Users\Tharun\Desktop\Programming Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem_MarkupCompile.lref
+C:\Users\Tharun\Desktop\Programming Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+C:\Users\Tharun\Desktop\Programming Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+C:\Users\Tharun\Desktop\Programming Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+C:\Users\Tharun\Desktop\Programming Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\App.baml
+C:\Users\Tharun\Desktop\Programming Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\MainWindow.baml
+C:\Users\Tharun\Desktop\Programming Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.g.resources
+C:\Users\Tharun\Desktop\Programming Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+C:\Users\Tharun\Desktop\Programming Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.cache
+C:\Users\Tharun\Desktop\Programming Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Tharun\Desktop\Programming Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+C:\Users\Tharun\Desktop\Programming Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.AssemblyReference.cache
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\MainWindow.g.cs
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\App.g.cs
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem_MarkupCompile.cache
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem_MarkupCompile.lref
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\App.baml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\MainWindow.baml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.g.resources
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.cache
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CoreCompileInputs.cache
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\Dashboard.baml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\Dashboard.g.cs
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\EntityFramework.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Data.Sqlite.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Newtonsoft.Json.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\SQLitePCLRaw.core.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Buffers.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Collections.Immutable.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Data.SQLite.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Memory.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\EntityFramework.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Data.Sqlite.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Newtonsoft.Json.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Buffers.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Collections.Immutable.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Data.SQLite.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Memory.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CopyComplete
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Data.SQLite.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Memory.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Buffers.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Data.SQLite.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Memory.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\Dashboard.baml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\Dashboard.g.cs
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\App.g.cs
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem_MarkupCompile.cache
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem_MarkupCompile.lref
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\App.baml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\MainWindow.baml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.g.resources
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CopyComplete
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\FirstPage.g.cs
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\FirstPage.baml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\Sign_Up_View.g.cs
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\Sign_Up_View.baml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\AdminSignIn.g.cs
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\AdminSignIn.baml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\StudentForm.g.cs
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\StudentForm.baml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\EntityFramework.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Data.Sqlite.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Newtonsoft.Json.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\SQLitePCLRaw.core.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Buffers.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Collections.Immutable.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Data.SQLite.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Memory.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\EntityFramework.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Data.Sqlite.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Newtonsoft.Json.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Buffers.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Collections.Immutable.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Data.SQLite.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Memory.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.AssemblyReference.cache
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\Dashboard.baml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\FirstPage.g.cs
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\MainWindow.g.cs
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\AdminSignIn.g.cs
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\Dashboard.g.cs
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\Sign_Up_View.g.cs
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\StudentForm.g.cs
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\App.g.cs
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem_MarkupCompile.cache
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem_MarkupCompile.lref
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\App.baml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\FirstPage.baml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\MainWindow.baml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\AdminSignIn.baml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\Sign_Up_View.baml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\StudentForm.baml
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.g.resources
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.cache
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CoreCompileInputs.cache
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CopyComplete
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
+D:\Other\Kasun Amarasinghe\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem_Content.g.cs
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Data.SQLite.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Memory.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Buffers.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Data.SQLite.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Memory.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\Dashboard.baml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\FirstPage.g.cs
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\AdminSignIn.g.cs
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\Dashboard.g.cs
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\Sign_Up_View.g.cs
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\StudentForm.g.cs
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\App.g.cs
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem_Content.g.cs
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem_MarkupCompile.cache
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem_MarkupCompile.lref
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\App.baml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\FirstPage.baml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\MainWindow.baml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\AdminSignIn.baml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\Sign_Up_View.baml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\StudentForm.baml
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.g.resources
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CopyComplete
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+C:\Users\ASUS\Desktop\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Data.SQLite.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Buffers.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Memory.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Buffers.xml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Data.SQLite.xml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Memory.xml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\Dashboard.baml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\FirstPage.g.cs
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\AdminSignIn.g.cs
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\Dashboard.g.cs
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\Sign_Up_View.g.cs
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\StudentForm.g.cs
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\App.g.cs
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem_Content.g.cs
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem_MarkupCompile.cache
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem_MarkupCompile.lref
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\App.baml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\FirstPage.baml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\MainWindow.baml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\AdminSignIn.baml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\Sign_Up_View.baml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\View\StudentForm.baml
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.g.resources
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentM.D74F523C.Up2Date
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
+C:\Users\Asus\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
